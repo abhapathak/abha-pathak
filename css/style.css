@@ -163,7 +163,7 @@ svg.whaticon {
     top: -20px;
     right: -18px;
 }
-.letGoBtn button {
+.letGoBtn a {
     font-size: 18px;
     padding: 20px 31px;
     background: #FFCE54;
