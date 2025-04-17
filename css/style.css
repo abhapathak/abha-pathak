@@ -163,9 +163,12 @@ svg.whaticon {
     top: -20px;
     right: -18px;
 }
+.letGoBtn{
+    margin-top: 8px;
+}
 .letGoBtn a {
     font-size: 18px;
-    padding: 20px 31px;
+    padding: 10px 31px;
     background: #FFCE54;
     color: #000;
     font-weight: 700;
